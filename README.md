@@ -35,3 +35,4 @@ A web application for managing a library of books and authors with support for C
     npm install
     npm run build
     ```
+6. Go to address http://127.0.0.1:8080 
