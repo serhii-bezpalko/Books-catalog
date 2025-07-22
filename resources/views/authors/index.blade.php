@@ -87,6 +87,6 @@
 <footer class="py-3 my-4 border-top ">
     <p class="text-center text-body-secondary">© {{ date('Y') }}</p>
 </footer>
+@include('script', ['route' => 'authors'])
 </body>
-@include('sript', ['route' => 'authors'])
 </html>
